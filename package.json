@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_lp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmt1112/portfolio_LP1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjmt1112/portfolio_LP1/issues"
+  },
+  "homepage": "https://github.com/tjmt1112/portfolio_LP1#readme",
+  "dependencies": {
+    "sass": "^1.49.11"
+  }
+}
