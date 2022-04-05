@@ -25,4 +25,14 @@
   width: 20px;
 }
 
+.main_visual img {
+  height: 400px;
+  width: 100%;
+}
+
+.About_contents {
+  max-width: 960px;
+  padding: 0 4%;
+}
+
 /*# sourceMappingURL=style.css.map */

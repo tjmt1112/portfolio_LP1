@@ -29,3 +29,13 @@
   }
 }
 
+.main_visual {
+  img {
+    height: 400px;
+    width: 100%;
+  }
+}
+.About_contents {
+  @include theme;
+ 
+}
