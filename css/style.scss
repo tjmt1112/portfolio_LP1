@@ -7,9 +7,9 @@
   @include theme;
   height: 270px;
   display: flex;
-  align-items: center;
+  
   justify-content: space-between;
-  margin: 0 auto;
+  
   li {
     display: flex;
     float: left;
@@ -35,7 +35,9 @@
     width: 100%;
   }
 }
-.About_contents {
+.About_contents{
   @include theme;
- 
+  display: flex;
+  justify-content: center;
+  
 }

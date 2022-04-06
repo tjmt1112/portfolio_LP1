@@ -3,9 +3,7 @@
   padding: 0 4%;
   height: 270px;
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  margin: 0 auto;
 }
 .main li {
   display: flex;
@@ -33,6 +31,8 @@
 .About_contents {
   max-width: 960px;
   padding: 0 4%;
+  display: flex;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=style.css.map */
