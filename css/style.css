@@ -31,8 +31,7 @@
 .About_contents {
   max-width: 960px;
   padding: 0 4%;
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 /*# sourceMappingURL=style.css.map */
